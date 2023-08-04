@@ -1,1 +1,1 @@
-print("tes anggga")
+print("ANGGA SAMAUS SHABAH")
